@@ -1,21 +1,51 @@
 /*BluuNext*/
-@font-face {/*regular [bold]*/
-	font-family: BluuNext;
-	src: url(fonts/bluunext/bluunext-bold.otf);
+
+@font-face {/*regular*/
+    font-family: 'BluuNext';
+    src: url('fonts/bluunext/bluunext-bold.eot');
+    src: url('fonts/bluunext/bluunext-bold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/bluunext/bluunext-bold.woff2') format('woff2'),
+         url('fonts/bluunext/bluunext-bold.woff') format('woff'),
+         url('fonts/bluunext/bluunext-bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
 }
-@font-face {/*italic [bold italic]*/
-	font-family: BluuNext;
-	src: url(fonts/bluunext/bluunext-bolditalic.otf);
-	font-style:italic;
+
+@font-face {/*italic*/
+    font-family: 'BluuNext';
+    src: url('fonts/bluunext/bluunext-bolditalic.eot');
+    src: url('fonts/bluunext/bluunext-bolditalic.eot?#iefix') format('embedded-opentype'),
+         url('fonts/bluunext/bluunext-bolditalic.woff2') format('woff2'),
+         url('fonts/bluunext/bluunext-bolditalic.woff') format('woff'),
+         url('fonts/bluunext/bluunext-bolditalic_2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+
 }
 
 /*Lack*/
+
 @font-face {/*regular*/
-	font-family: lack;
-	src: url(fonts/lack/lack-regular.otf);
+    font-family: 'lack';
+    src: url('fonts/lack/lack-regular.eot');
+    src: url('fonts/lack/lack-regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/lack/lack-regular.woff2') format('woff2'),
+         url('fonts/lack/lack-regular.woff') format('woff'),
+         url('fonts/lack/lack-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
 }
+
 @font-face {/*italic*/
-	font-family: lack;
-	src: url(fonts/lack/lack-italic.otf);
-	font-style:italic;
+    font-family: 'lack';
+    src: url('fonts/lack/lack-italic.eot');
+    src: url('fonts/lack/lack-italic?#iefix') format('embedded-opentype'),
+         url('fonts/lack/lack-italic.woff2') format('woff2'),
+         url('fonts/lack/lack-italic.woff') format('woff'),
+         url('fonts/lack/lack-italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+
 }
