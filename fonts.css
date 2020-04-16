@@ -1,0 +1,21 @@
+/*BluuNext*/
+@font-face {/*regular [bold]*/
+	font-family: BluuNext;
+	src: url(fonts/bluunext/bluunext-bold.otf);
+}
+@font-face {/*italic [bold italic]*/
+	font-family: BluuNext;
+	src: url(fonts/bluunext/bluunext-bolditalic.otf);
+	font-style:italic;
+}
+
+/*Lack*/
+@font-face {/*regular*/
+	font-family: lack;
+	src: url(fonts/lack/lack-regular.otf);
+}
+@font-face {/*italic*/
+	font-family: lack;
+	src: url(fonts/lack/lack-italic.otf);
+	font-style:italic;
+}
